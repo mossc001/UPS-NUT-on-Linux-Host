@@ -7,3 +7,6 @@ Operating System: Proxmox VE 6.4.x
 Topology: USB UPS Connection > UPS NUT Host
 
 Firewall/Router: No modifications required
+
+# Credits
+https://github.com/YellowMonster76
